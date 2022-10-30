@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Img_to_ASCII"
+name = "img_to_ascii"
 version = "0.1.0"
